@@ -2,6 +2,6 @@ address: https://test-stand.gb.ru
 browser: chrome
 sleep_time: 5
 wait: 10
-username: DmitryP
-password: 1782dd5928
+username: xxxxxxxxxx
+password: xxxxxxxxxxx
 title: Selenium
